@@ -709,6 +709,14 @@ The Jerusalem Odyssey Text
 
 ## Linux & Desktop
 
+### K811 EV Test Events
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/K811-EV-Test-Events)
+
+Input event documentation for K811 gaming keypad on Ubuntu (evtest output, mappings)
+
+---
+
 ### Keyboard Shortcuts Ref
 
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Keyboard-Shortcuts-Ref)
