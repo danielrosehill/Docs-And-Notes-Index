@@ -14,6 +14,14 @@ Recently, I set up a website to house it:
 
 ## All Repositories (Alphabetical)
 
+## A Better Jobs Platform Notes
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/A-Better-Jobs-Platform-Notes)
+
+Notes on ideas for a better jobs platform
+
+---
+
 ## A Few ADKs
 
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/A-Few-ADKs)
@@ -51,6 +59,14 @@ AI workspace planning notes and documentation
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/AMD-AI-Notes)
 
 Notes on AMD AI/ML setup, ROCm, and related configurations
+
+---
+
+## ASR And STT AI Notebook
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/ASR-And-STT-AI-Notebook)
+
+ASR and speech-to-text AI notebook and notes
 
 ---
 
@@ -102,6 +118,22 @@ Claude Code feature requests
 
 ---
 
+## Claude Code Notebook
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Claude-Code-Notebook)
+
+Claude Code notebook and notes
+
+---
+
+## Client Update Pipeline Notes
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Client-Update-Pipeline-Notes)
+
+Client update pipeline notes and documentation
+
+---
+
 ## Code Tutor Agent Model
 
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Code-Tutor-Agent-Model)
@@ -147,6 +179,14 @@ Data Notebook documentation
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Deepgram-Text-Input)
 
 Deepgram text input tool/integration
+
+---
+
+## Desktop Backup Notes 1125
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Desktop-Backup-Notes-1125)
+
+Desktop backup notes and documentation (Nov 2025)
 
 ---
 
@@ -622,6 +662,14 @@ Linux macropad planning notes
 
 ---
 
+## Linux Voice Typing App Notes
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Linux-Voice-Typing-App-Notes)
+
+Linux voice typing app notes and documentation
+
+---
+
 ## Local AI Agent Planning Notes
 
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Local-AI-Agent-Planning-Notes)
@@ -651,6 +699,14 @@ Nuclino API Docs (unofficial)
 [![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/notepads/lists/obsidian-ai-tools/)
 
 Obsidian AI Tools documentation
+
+---
+
+## On MCP And Consolidation
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/On-MCP-And-Consolidation)
+
+Notes on MCP and consolidation patterns
 
 ---
 
