@@ -983,6 +983,14 @@ Nuclino API Docs (unofficial)
 
 ---
 
+### Nuclino API Docs (Unofficial) 0725
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Nuclino-API-Docs-Unofficial-0725)
+
+Nuclino API documentation snapshot (July 2025) with OpenAPI schemas
+
+---
+
 ### Resource Space DAM Assets
 
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Resource-Space-DAM-Assets)
