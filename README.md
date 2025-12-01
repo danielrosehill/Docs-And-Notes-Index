@@ -277,7 +277,7 @@ My AI Stack
 
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/My-LLM-KM-Idea)
 
-My LLM KM Idea
+Knowledge management system concept for storing and organizing LLM outputs (prompts, responses, configs)
 
 ---
 
@@ -529,7 +529,7 @@ VS Code LLM Tools
 
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Github-AI-Searches)
 
-Github AI Searches
+Curated collection of GitHub search links for exploring open-source AI projects (agents, assistants, MCP servers, etc.)
 
 ---
 
@@ -646,6 +646,14 @@ Feature Ideas And Requests
 [![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/notepads/ideas/)
 
 Ideas documentation
+
+---
+
+### Is Remote Friendly
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/is_remote_friendly)
+
+Data taxonomy for categorizing remote work restrictions (geographic, timezone, requirements)
 
 ---
 
@@ -785,6 +793,14 @@ Changelog documentation
 
 ---
 
+### Daniel Public Changelog
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Daniel-Public-Changelog)
+
+Public changelog of all technical projects
+
+---
+
 ### How To Guides
 
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/How-To-Guides)
@@ -884,6 +900,14 @@ Thoughts On Tech documentation
 ---
 
 ## Prompts & Prompt Engineering
+
+### AI Dev Prompts Example
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/AI-Dev-Prompts-Example)
+
+Example prompts and best practices for AI-assisted Python GUI development on Linux desktop
+
+---
 
 ### Evaluation Prompts
 
