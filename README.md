@@ -38,6 +38,22 @@ Description of my current AI "agent" workspace, challenges, plans
 
 ---
 
+## Ai Workspace Planning Notes
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Ai-Workspace-Planning-Notes)
+
+AI workspace planning notes and documentation
+
+---
+
+## AMD AI Notes
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/AMD-AI-Notes)
+
+Notes on AMD AI/ML setup, ROCm, and related configurations
+
+---
+
 ## API Pricing / Cost Management
 
 [![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/llms-and-ai/api-prices/)
@@ -126,6 +142,14 @@ Data Notebook documentation
 
 ---
 
+## Deepgram Text Input
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Deepgram-Text-Input)
+
+Deepgram text input tool/integration
+
+---
+
 ## Docs Templates
 
 [![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/documentation/doc-templates/)
@@ -163,6 +187,14 @@ General Thoughts On Life documentation
 [![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/notepads/gists/)
 
 Gists documentation
+
+---
+
+## Gists (GitHub)
+
+[![View Gists](https://img.shields.io/badge/View_Gists-blue)](https://gist.github.com/danielrosehill)
+
+Daniel's GitHub Gists collection
 
 ---
 
@@ -470,6 +502,14 @@ Open Letters
 
 ---
 
+## Pay For Ideas
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Pay-For-Ideas)
+
+Pay For Ideas concept/notes
+
+---
+
 ## Perplexity Security 1224
 
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Perplexity-Security-1224)
@@ -659,6 +699,14 @@ Prompt Libraries (List Of) documentation
 [![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/llms-and-ai/prompt-library/)
 
 Prompt Library documentation
+
+---
+
+## Sefaria MCP Testing
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Sefaria-MCP-Testing)
+
+Sefaria MCP server testing and documentation
 
 ---
 
