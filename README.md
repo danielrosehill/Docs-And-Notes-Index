@@ -30,11 +30,35 @@ Point in time listing of a few ADKs (agent development kits)
 
 ---
 
+## AI Agent UN
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/AI-Agent-UN)
+
+AI Agent UN concept and notes
+
+---
+
+## AI Developer Notebook
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/AI-Developer-Notebook)
+
+AI developer notebook and notes
+
+---
+
 ## AI Friendly Badge
 
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/AI-Friendly-Badge)
 
 Idea and badge - AI friendly footer
+
+---
+
+## AI Human Attribution Adder
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/AI-Human-Attribution-Adder)
+
+Tool for adding AI/human attribution to content
 
 ---
 
@@ -110,6 +134,22 @@ Changelog documentation
 
 ---
 
+## Clarity
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Clarity)
+
+Clarity project notes and documentation
+
+---
+
+## Claude Agent Picker Pattern
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Claude-Agent-Picker-Pattern)
+
+Claude agent picker pattern documentation
+
+---
+
 ## Claude Code Context Feature Requests
 
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Claude-Code-Context-Feature-Requests)
@@ -123,6 +163,14 @@ Claude Code feature requests
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Claude-Code-Notebook)
 
 Claude Code notebook and notes
+
+---
+
+## Claude Spaces Model
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Claude-Spaces-Model)
+
+Claude Spaces model documentation
 
 ---
 
@@ -755,6 +803,14 @@ Prompt Libraries (List Of) documentation
 [![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/llms-and-ai/prompt-library/)
 
 Prompt Library documentation
+
+---
+
+## Resource Space DAM Assets
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Resource-Space-DAM-Assets)
+
+Resource Space DAM assets and documentation
 
 ---
 
