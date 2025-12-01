@@ -838,6 +838,14 @@ Sefaria MCP server testing and documentation
 
 ---
 
+## Software Wish List AI Context
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Software-Wish-List-AI-Context)
+
+Software wish list for AI context purposes
+
+---
+
 ## STT Fine Tune Project Outline
 
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/STT-Fine-Tune-Project-Outline)
