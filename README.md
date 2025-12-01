@@ -17,6 +17,7 @@ Recently, I set up a website to house it:
 ## Table of Contents
 
 - [AI & LLMs](#ai--llms)
+- [Context & RAG (AI)](#context--rag-ai)
 - [Backup & Data Management](#backup--data-management)
 - [Claude & Anthropic](#claude--anthropic)
 - [Data & Research](#data--research)
@@ -109,14 +110,6 @@ Notes on AMD AI/ML setup, ROCm, and related configurations
 [![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/llms-and-ai/api-prices/)
 
 API Pricing / Cost Management documentation
-
----
-
-### Context Waterfall Architecture Notes
-
-[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Context-Waterfall-Architecture-Notes)
-
-Context Waterfall Architecture Notes
 
 ---
 
@@ -288,38 +281,6 @@ Perplexity Security 1224
 
 ---
 
-### Personal Context AI Agent Pattern Model
-
-[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Personal-Context-AI-Agent-Pattern-Model)
-
-Personal context AI agent pattern model documentation
-
----
-
-### Personal Context Repo Idea
-
-[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Personal-Context-Repo-Idea)
-
-Personal Context Repo Idea
-
----
-
-### Personal Context Store Ideation
-
-[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Personal-Context-Store-Ideation)
-
-Personal Context Store Ideation
-
----
-
-### Personal RAG Agent Workflow
-
-[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Personal-RAG-Agent-Workflow)
-
-Personal RAG Agent Workflow
-
----
-
 ### Personalised AI Idea
 
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Personalised-AI-Idea)
@@ -349,6 +310,48 @@ Model for using code gen assistants as code tutors that also code stuff
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Vibe-Coded-Disclosure)
 
 Add a vibe coding disclosure to repos
+
+---
+
+## Context & RAG (AI)
+
+### Context Waterfall Architecture Notes
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Context-Waterfall-Architecture-Notes)
+
+Context Waterfall Architecture Notes
+
+---
+
+### Personal Context AI Agent Pattern Model
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Personal-Context-AI-Agent-Pattern-Model)
+
+Personal context AI agent pattern model documentation
+
+---
+
+### Personal Context Repo Idea
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Personal-Context-Repo-Idea)
+
+Personal Context Repo Idea
+
+---
+
+### Personal Context Store Ideation
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Personal-Context-Store-Ideation)
+
+Personal Context Store Ideation
+
+---
+
+### Personal RAG Agent Workflow
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Personal-RAG-Agent-Workflow)
+
+Personal RAG Agent Workflow
 
 ---
 
