@@ -614,6 +614,14 @@ Personal Context Repo Idea
 
 ---
 
+## Personal Context AI Agent Pattern Model
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Personal-Context-AI-Agent-Pattern-Model)
+
+Personal context AI agent pattern model documentation
+
+---
+
 ## Personal Context Store Ideation
 
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Personal-Context-Store-Ideation)
@@ -723,6 +731,14 @@ Linux voice typing app notes and documentation
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Local-AI-Agent-Planning-Notes)
 
 Local AI planning notes
+
+---
+
+## Local Linux Repair Bot
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Local-Linux-Repair-Bot)
+
+Local Linux repair bot documentation
 
 ---
 
