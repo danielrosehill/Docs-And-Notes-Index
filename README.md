@@ -257,6 +257,14 @@ Long AI Prompting Experiment
 
 ---
 
+### AI Stack Oct 2025
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/AI-Stack-Oct-2025)
+
+Model AI stack and budget (Oct 2025) - for ref, FAQs, etc
+
+---
+
 ### My AI Stack
 
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/My-AI-Stack)
@@ -990,6 +998,14 @@ Linux voice typing app notes and documentation
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/STT-Fine-Tune-Project-Outline)
 
 STT Fine Tune
+
+---
+
+### Voicepad
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Voicepad)
+
+Planning notes for a macropad for STT users
 
 ---
 
