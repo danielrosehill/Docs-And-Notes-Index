@@ -606,6 +606,14 @@ Perplexity Security 1224
 
 ---
 
+## Personalised AI Idea
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Personalised-AI-Idea)
+
+Personalised AI idea notes and documentation
+
+---
+
 ## Personal Context Repo Idea
 
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Personal-Context-Repo-Idea)
