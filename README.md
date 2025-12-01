@@ -415,6 +415,22 @@ Claude Code notebook and notes
 
 ---
 
+### Claude OS Sync Agent
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Claude-OS-Sync-Agent)
+
+Idea - using Claude Code in place of Ansible for cross-device updating/sync
+
+---
+
+### Claude Rescue
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Claude-Rescue)
+
+WIP/Plan/Idea: System recovery/rescue utility that seeds Claude Code installation for AI-assisted repair from TTY/shell
+
+---
+
 ### Claude Spaces Model
 
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Claude-Spaces-Model)
