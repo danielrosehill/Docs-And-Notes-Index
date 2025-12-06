@@ -39,6 +39,8 @@ Recently, I set up a website to house it:
 
 ---
 
+![AI & LLMs](assets/banners/ai-llms.png)
+
 ## AI & LLMs
 
 ### A Few ADKs
@@ -321,6 +323,8 @@ Add a vibe coding disclosure to repos
 
 ---
 
+![Context & RAG](assets/banners/context-rag.png)
+
 ## Context & RAG (AI)
 
 ### Context Waterfall Architecture Notes
@@ -363,6 +367,8 @@ Personal RAG Agent Workflow
 
 ---
 
+![Backup & Data Management](assets/banners/backup-data.png)
+
 ## Backup & Data Management
 
 ### Back Up Your SaaS
@@ -388,6 +394,8 @@ Desktop backup notes and documentation (Nov 2025)
 Master Backup Strategy
 
 ---
+
+![Claude & Anthropic](assets/banners/claude-anthropic.png)
 
 ## Claude & Anthropic
 
@@ -439,6 +447,8 @@ Claude Spaces model documentation
 
 ---
 
+![Data & Research](assets/banners/data-research.png)
+
 ## Data & Research
 
 ### Data Notebook
@@ -472,6 +482,8 @@ Useful ISO standards
 WAQI Stations in Israel
 
 ---
+
+![Development Tools & Workflows](assets/banners/dev-tools.png)
 
 ## Development Tools & Workflows
 
@@ -522,6 +534,8 @@ Test Markdown Docs
 VS Code LLM Tools
 
 ---
+
+![GitHub](assets/banners/github.png)
 
 ## GitHub
 
@@ -581,6 +595,8 @@ Notes about how I use GitHub
 
 ---
 
+![Home Automation & Hardware](assets/banners/home-automation.png)
+
 ## Home Automation & Hardware
 
 ### Home Assistant Starter List
@@ -614,6 +630,8 @@ USB Foot Mouse Linux
 Workstation specs
 
 ---
+
+![Ideas & Concepts](assets/banners/ideas-concepts.png)
 
 ## Ideas & Concepts
 
@@ -673,6 +691,8 @@ Tech Ideas
 
 ---
 
+![Israel-Specific](assets/banners/israel.png)
+
 ## Israel-Specific
 
 ### Israel News RSS Feeds
@@ -714,6 +734,8 @@ Jerusalem Tech Companies
 The Jerusalem Odyssey Text
 
 ---
+
+![Linux & Desktop](assets/banners/linux-desktop.png)
 
 ## Linux & Desktop
 
@@ -757,6 +779,8 @@ Linux macropad planning notes
 
 ---
 
+![MCP (Model Context Protocol)](assets/banners/mcp.png)
+
 ## MCP (Model Context Protocol)
 
 ### MCP Server Ideas
@@ -782,6 +806,8 @@ Notes on MCP and consolidation patterns
 Sefaria MCP server testing and documentation
 
 ---
+
+![Miscellaneous](assets/banners/miscellaneous.png)
 
 ## Miscellaneous
 
@@ -840,6 +866,8 @@ Open Letters
 Wiki
 
 ---
+
+![Personal & Career](assets/banners/personal-career.png)
 
 ## Personal & Career
 
@@ -907,6 +935,8 @@ Thoughts On Tech documentation
 
 ---
 
+![Prompts & Prompt Engineering](assets/banners/prompts-engineering.png)
+
 ## Prompts & Prompt Engineering
 
 ### AI Dev Prompts Example
@@ -972,6 +1002,8 @@ Prompt Library documentation
 Prompts And Outputs
 
 ---
+
+![Software & APIs](assets/banners/software-apis.png)
 
 ## Software & APIs
 
@@ -1039,6 +1071,8 @@ Software wish list for AI context purposes
 
 ---
 
+![Speech & Voice](assets/banners/speech-voice.png)
+
 ## Speech & Voice
 
 ### ASR And STT AI Notebook
@@ -1080,6 +1114,8 @@ STT Fine Tune
 Planning notes for a macropad for STT users
 
 ---
+
+![Tech Stack & Tools](assets/banners/tech-stack.png)
 
 ## Tech Stack & Tools
 
