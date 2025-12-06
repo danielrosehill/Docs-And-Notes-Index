@@ -717,6 +717,14 @@ The Jerusalem Odyssey Text
 
 ## Linux & Desktop
 
+### AMD Radeon 7700 Notes
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/AMD-Radeon-7700-Notes)
+
+Notes about AMD Radeon 7700 GPU and compatibility
+
+---
+
 ### K811 EV Test Events
 
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/K811-EV-Test-Events)
@@ -1046,6 +1054,14 @@ ASR and speech-to-text AI notebook and notes
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Linux-Voice-Typing-App-Notes)
 
 Linux voice typing app notes and documentation
+
+---
+
+### Speech To Text Chain Notes
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Speech-To-Text-Chain-Notes)
+
+Notes on the 9-step ASR processing chain components affecting speech recognition accuracy
 
 ---
 
