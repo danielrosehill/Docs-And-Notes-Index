@@ -43,6 +43,38 @@ Recently, I set up a website to house it:
 
 ## AI & LLMs
 
+### Agentic AI Architecture Visualisation
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Agentic-AI-Architecture-Visualisation)
+
+Framework-agnostic data model and visualizations mapping the moving pieces of agentic AI systems
+
+---
+
+### AI Native Backend Notes
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/AI-Native-Backend-Notes)
+
+Questions and answers with Claude on building AI native backends
+
+---
+
+### Personal AI Agent Development Template
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Personal-AI-Agent-Development-Template)
+
+A model template/skeleton for creating personalised LLM agents
+
+---
+
+### Shared AI Chats Research
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Shared-AI-Chats-Research)
+
+AI assisted search query (and notes)
+
+---
+
 ### A Few ADKs
 
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/A-Few-ADKs)
@@ -399,6 +431,14 @@ Master Backup Strategy
 
 ## Claude & Anthropic
 
+### Claude Agent Workspace Model
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Claude-Agent-Workspace-Model)
+
+Outline for using various repositories as discrete workspaces for Claude Code
+
+---
+
 ### Claude Agent Picker Pattern
 
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Claude-Agent-Picker-Pattern)
@@ -739,6 +779,22 @@ The Jerusalem Odyssey Text
 
 ## Linux & Desktop
 
+### Network In A Box Planning
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Network-In-A-Box-Planning)
+
+Claude generated tips for home network migration
+
+---
+
+### Voice Control Linux
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Voice-Control-Linux)
+
+Claude-enhanced research for voice control platforms with Linux support
+
+---
+
 ### AMD Radeon 7700 Notes
 
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/AMD-Radeon-7700-Notes)
@@ -870,6 +926,14 @@ Wiki
 ![Personal & Career](assets/banners/personal-career.png)
 
 ## Personal & Career
+
+### AI Developers Career Planning Notes
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/AI-Developers-Career-Planning-Notes)
+
+Notes/ideas for the evolving face of programming jobs
+
+---
 
 ### Career Data AI Context Repo
 
