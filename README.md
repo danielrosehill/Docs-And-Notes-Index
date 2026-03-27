@@ -487,6 +487,30 @@ Claude Spaces model documentation
 
 ---
 
+### Claude Code Notes
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Claude-Code-Notes)
+
+Notebook for making the most of Claude Code
+
+---
+
+### Split Claude MD Pattern
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Split-Claude-MD-Pattern)
+
+Demo/pattern for creating a home CLAUDE.md optimised for context handling
+
+---
+
+### ClaudeMD Turnstile
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/ClaudeMD-Turnstile)
+
+Quick model/template for creating separate CLAUDE.md files for developers and users
+
+---
+
 ![Data & Research](assets/banners/data-research.png)
 
 ## Data & Research
@@ -671,6 +695,22 @@ Workstation specs
 
 ---
 
+### Snapcast Setup
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/snapcast-setup)
+
+Documentation for home Snapcast multi-room audio setup
+
+---
+
+### One Plus Nord 3 Root Guide
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/One-Plus-Nord-3-Root-Guide)
+
+Guide to rooting OnePlus Nord 3 5G on OxygenOS 16 with Magisk
+
+---
+
 ![Ideas & Concepts](assets/banners/ideas-concepts.png)
 
 ## Ideas & Concepts
@@ -767,6 +807,30 @@ Jerusalem Tech Companies
 
 ---
 
+### Hebrew Tech Vocab
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Hebrew-Tech-Vocab)
+
+Personal WIP / collection of tech words
+
+---
+
+### Failover Internet Israel Notes
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Failover-Internet-Israel-Notes)
+
+Notes on setting up failover internet in Israel
+
+---
+
+### Wartime Guide Audiobook
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Wartime-Guide-Audiobook)
+
+Audiobook generation for the Israel Wartime Readiness Field Guide
+
+---
+
 ### The Jerusalem Odyssey Text
 
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/The-Jerusalem-Odyssey-Text)
@@ -860,6 +924,22 @@ Notes on MCP and consolidation patterns
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Sefaria-MCP-Testing)
 
 Sefaria MCP server testing and documentation
+
+---
+
+### How To MCP
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/How-To-MCP)
+
+Template for a guidance reference for AI agents configuring MCP connections
+
+---
+
+### MCP Installation Notebook
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/MCP-Installation-Notebook)
+
+Notebook of things figured out about installing MCPs
 
 ---
 
@@ -1176,6 +1256,14 @@ STT Fine Tune
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Voicepad)
 
 Planning notes for a macropad for STT users
+
+---
+
+### Hebrew TTS Providers
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Hebrew-TTS-Providers)
+
+Point in time snapshot of TTS providers with Modern Hebrew support
 
 ---
 
