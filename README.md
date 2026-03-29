@@ -899,6 +899,14 @@ Linux macropad planning notes
 
 ---
 
+### Handy Ubuntu Setup
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Handy-Ubuntu-Setup)
+
+Handy Ubuntu setup guides and configuration notes
+
+---
+
 ![MCP (Model Context Protocol)](assets/banners/mcp.png)
 
 ## MCP (Model Context Protocol)
