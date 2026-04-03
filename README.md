@@ -799,6 +799,14 @@ Israel Rocket Shelter Guidelines
 
 ---
 
+### Public Shelter Internet Setup
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Public-Shelter-Internet-Setup)
+
+Makeshift DIY guide for getting internet into protected shelters in Israel
+
+---
+
 ### Jerusalem Tech Companies
 
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Jerusalem-Tech-Companies)
