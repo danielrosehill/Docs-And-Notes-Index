@@ -951,6 +951,14 @@ Template for a guidance reference for AI agents configuring MCP connections
 
 ---
 
+### MCP Aggregation Notes
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/MCP-Aggregation-Notes)
+
+Ideating/brainstorming frustrations with MCP aggregation and planning an easier approach
+
+---
+
 ### MCP Installation Notebook
 
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/MCP-Installation-Notebook)
