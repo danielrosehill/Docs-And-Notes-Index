@@ -775,6 +775,14 @@ Tech Ideas
 
 ## Israel-Specific
 
+### Israel Home Front Ideas
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Israel-Home-Front-Ideas)
+
+A few open source ideas for the Pikud HaOref system collected over time
+
+---
+
 ### Israel News RSS Feeds
 
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Israel-News-RSS-Feeds)
