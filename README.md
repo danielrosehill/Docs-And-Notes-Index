@@ -391,6 +391,14 @@ Personal Context Store Ideation
 
 ---
 
+### AI Memory Planning
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/AI-Memory-Planning-0426)
+
+Architecture diagrams and notes exploring three methods for building persistent AI context: passive chat distillation, agentic interviews, and manual memory curation
+
+---
+
 ### Personal RAG Agent Workflow
 
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Personal-RAG-Agent-Workflow)
