@@ -1283,6 +1283,14 @@ Linux voice typing app notes and documentation
 
 ---
 
+### Live Typing UX Research
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Live-Typing-UX-Research)
+
+Claude-assisted technical research into live voice typing on the desktop — interaction patterns, accuracy tradeoffs, and a working spec for an ideal live-typing UI
+
+---
+
 ### Speech To Text Chain Notes
 
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Speech-To-Text-Chain-Notes)
