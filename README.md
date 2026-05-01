@@ -723,6 +723,14 @@ Guide to rooting OnePlus Nord 3 5G on OxygenOS 16 with Magisk
 
 ## Ideas & Concepts
 
+### Agent Wiki Idea
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Agent-Wiki-Idea)
+
+Notes/prior-art for a wiki whose primary readers and writers are AI agents over MCP, not humans
+
+---
+
 ### A Better Jobs Platform Notes
 
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/A-Better-Jobs-Platform-Notes)
