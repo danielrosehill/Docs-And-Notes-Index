@@ -509,14 +509,6 @@ Curated collection of GitHub search links for exploring open-source AI projects 
 
 ---
 
-### Github Ideas And FRs
-
-[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Github-Ideas-And-FRs)
-
-Github Ideas And FRs
-
----
-
 ### Gists
 
 [![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/notepads/gists/)
@@ -586,14 +578,6 @@ Notes/prior-art for a wiki whose primary readers and writers are AI agents over 
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/A-Better-Jobs-Platform-Notes)
 
 Notes on ideas for a better jobs platform
-
----
-
-### Feature Ideas And Requests
-
-[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Feature-Ideas-And-Requests)
-
-Feature Ideas And Requests
 
 ---
 
