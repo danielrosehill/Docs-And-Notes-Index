@@ -10,6 +10,8 @@ I use [Github](htttps://github.com/danielrosehill) as a notepad to share documen
 
 Recently, I set up a website to house it:
 
+**Last Updated:** October 2026
+
 [![Docs Website](https://img.shields.io/badge/Docs_Website-docs.bydanielrosehill.com-blue)](https://docs.bydanielrosehill.com)
 
 ---
@@ -59,14 +61,6 @@ Questions and answers with Claude on building AI native backends
 
 ---
 
-### Personal AI Agent Development Template
-
-[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Personal-AI-Agent-Development-Template)
-
-A model template/skeleton for creating personalised LLM agents
-
----
-
 ### Shared AI Chats Research
 
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Shared-AI-Chats-Research)
@@ -75,27 +69,11 @@ AI assisted search query (and notes)
 
 ---
 
-### A Few ADKs
-
-[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/A-Few-ADKs)
-
-Point in time listing of a few ADKs (agent development kits)
-
----
-
 ### AI Agent UN
 
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/AI-Agent-UN)
 
 AI Agent UN concept and notes
-
----
-
-### AI Agent Workspace Spec
-
-[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/AI-Agent-Workspace-Spec-310325)
-
-Description of my current AI "agent" workspace, challenges, plans
 
 ---
 
@@ -152,14 +130,6 @@ API Pricing / Cost Management documentation
 [![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/llms-and-ai/custom-agents/)
 
 Custom Agent Configurations documentation
-
----
-
-### Great AI Convos
-
-[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Great-AI-Convos)
-
-Reference AI Conversations
 
 ---
 
@@ -227,14 +197,6 @@ LLM Max Token Length 0225
 
 ---
 
-### LLM Output Notes
-
-[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/LLM-Output-Notes)
-
-LLM Output Notes
-
----
-
 ### LLM Preferences Guide
 
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/LLM-Preferences-Guide)
@@ -251,27 +213,11 @@ LLM Use Case Self Ideation
 
 ---
 
-### LLM Workflow Documentation
-
-[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/LLM-Workflow-Documentation)
-
-LLM Workflow Documentation
-
----
-
 ### LLMs on LLMs
 
 [![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/llms-and-ai/llms-on-llms/)
 
 LLMs on LLMs documentation
-
----
-
-### Local AI Agent Planning Notes
-
-[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Local-AI-Agent-Planning-Notes)
-
-Local AI planning notes
 
 ---
 
@@ -296,14 +242,6 @@ Long AI Prompting Experiment
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/AI-Stack-Oct-2025)
 
 Model AI stack and budget (Oct 2025) - for ref, FAQs, etc
-
----
-
-### My AI Stack
-
-[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/My-AI-Stack)
-
-My AI Stack
 
 ---
 
@@ -375,14 +313,6 @@ Personal context AI agent pattern model documentation
 
 ---
 
-### Personal Context Repo Idea
-
-[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Personal-Context-Repo-Idea)
-
-Personal Context Repo Idea
-
----
-
 ### Personal Context Store Ideation
 
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Personal-Context-Store-Ideation)
@@ -439,14 +369,6 @@ Master Backup Strategy
 
 ## Claude & Anthropic
 
-### Claude Agent Workspace Model
-
-[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Claude-Agent-Workspace-Model)
-
-Outline for using various repositories as discrete workspaces for Claude Code
-
----
-
 ### Claude Agent Picker Pattern
 
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Claude-Agent-Picker-Pattern)
@@ -463,14 +385,6 @@ Claude Code feature requests
 
 ---
 
-### Claude Code Notebook
-
-[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Claude-Code-Notebook)
-
-Claude Code notebook and notes
-
----
-
 ### Claude OS Sync Agent
 
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Claude-OS-Sync-Agent)
@@ -484,14 +398,6 @@ Idea - using Claude Code in place of Ansible for cross-device updating/sync
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Claude-Rescue)
 
 WIP/Plan/Idea: System recovery/rescue utility that seeds Claude Code installation for AI-assisted repair from TTY/shell
-
----
-
-### Claude Spaces Model
-
-[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Claude-Spaces-Model)
-
-Claude Spaces model documentation
 
 ---
 
@@ -547,14 +453,6 @@ Useful ISO standards
 
 ---
 
-### WAQI Stations in Israel
-
-[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/WAQI-Stations-In-Israel)
-
-WAQI Stations in Israel
-
----
-
 ![Development Tools & Workflows](assets/banners/dev-tools.png)
 
 ## Development Tools & Workflows
@@ -599,14 +497,6 @@ Test Markdown Docs
 
 ---
 
-### VS Code LLM Tools
-
-[![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://github.com/danielrosehill/VS-Code-LLM-Tools)
-
-VS Code LLM Tools
-
----
-
 ![GitHub](assets/banners/github.png)
 
 ## GitHub
@@ -627,22 +517,6 @@ Github Ideas And FRs
 
 ---
 
-### Github Notation
-
-[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Github-Notation)
-
-Github Notation
-
----
-
-### Github Optimisation
-
-[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Github-Optimisation)
-
-Github Optimisation
-
----
-
 ### Gists
 
 [![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/notepads/gists/)
@@ -659,14 +533,6 @@ Daniel's GitHub Gists collection
 
 ---
 
-### How I Use Github FYI
-
-[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/How-I-Use-Github-FYI)
-
-Notes about how I use GitHub
-
----
-
 ![Home Automation & Hardware](assets/banners/home-automation.png)
 
 ## Home Automation & Hardware
@@ -676,14 +542,6 @@ Notes about how I use GitHub
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Home-Assistant-Starter-List)
 
 Home Assistant starter list
-
----
-
-### Homebox Ideas
-
-[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Homebox-Ideas)
-
-Homebox Ideas
 
 ---
 
@@ -700,14 +558,6 @@ USB Foot Mouse Linux
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Workstation-Specs)
 
 Workstation specs
-
----
-
-### Snapcast Setup
-
-[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/snapcast-setup)
-
-Documentation for home Snapcast multi-room audio setup
 
 ---
 
@@ -739,14 +589,6 @@ Notes on ideas for a better jobs platform
 
 ---
 
-### Clarity
-
-[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Clarity)
-
-Clarity project notes and documentation
-
----
-
 ### Feature Ideas And Requests
 
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Feature-Ideas-And-Requests)
@@ -768,14 +610,6 @@ Ideas documentation
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/is_remote_friendly)
 
 Data taxonomy for categorizing remote work restrictions (geographic, timezone, requirements)
-
----
-
-### Pay For Ideas
-
-[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Pay-For-Ideas)
-
-Pay For Ideas concept/notes
 
 ---
 
@@ -831,14 +665,6 @@ Makeshift DIY guide for getting internet into protected shelters in Israel
 
 ---
 
-### Jerusalem Tech Companies
-
-[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Jerusalem-Tech-Companies)
-
-Jerusalem Tech Companies
-
----
-
 ### Hebrew Tech Vocab
 
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Hebrew-Tech-Vocab)
@@ -852,14 +678,6 @@ Personal WIP / collection of tech words
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Failover-Internet-Israel-Notes)
 
 Notes on setting up failover internet in Israel
-
----
-
-### Wartime Guide Audiobook
-
-[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Wartime-Guide-Audiobook)
-
-Audiobook generation for the Israel Wartime Readiness Field Guide
 
 ---
 
@@ -923,14 +741,6 @@ Kscreen Config
 
 ---
 
-### Linux Macropad Planning
-
-[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Linux-Macropad-Planning)
-
-Linux macropad planning notes
-
----
-
 ### Handy Ubuntu Setup
 
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Handy-Ubuntu-Setup)
@@ -948,14 +758,6 @@ Handy Ubuntu setup guides and configuration notes
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/MCP-Server-Ideas)
 
 MCP Server ideas
-
----
-
-### On MCP And Consolidation
-
-[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/On-MCP-And-Consolidation)
-
-Notes on MCP and consolidation patterns
 
 ---
 
@@ -983,9 +785,9 @@ Ideating/brainstorming frustrations with MCP aggregation and planning an easier 
 
 ---
 
-### MCP Architecture 0426
+### MCP Deployment Architecture
 
-[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/MCP-Architecture-0426)
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/MCP-Deployment-Architecture)
 
 Documentation of the two-tier MCP aggregation architecture — LAN VM as default, localhost for exceptions — with rationale around client portability, location flexibility, and context load management
 
@@ -1003,27 +805,11 @@ Notebook of things figured out about installing MCPs
 
 ## Miscellaneous
 
-### Bug Reports Public
-
-[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Bug-Reports-Public)
-
-Bug Reports
-
----
-
 ### Changelog
 
 [![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/misc/changelog/)
 
 Changelog documentation
-
----
-
-### Daniel Public Changelog
-
-[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Daniel-Public-Changelog)
-
-Public changelog of all technical projects
 
 ---
 
@@ -1040,14 +826,6 @@ How To Guides
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Interesting-Tech-Things)
 
 Interesting Tech Things
-
----
-
-### Open Letters
-
-[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Open-Letters)
-
-Open Letters
 
 ---
 
@@ -1155,14 +933,6 @@ Evaluation Prompts documentation
 
 ---
 
-### My Principles Of Prompting
-
-[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/My-Principles-Of-Prompting)
-
-My Principles Of Prompting
-
----
-
 ### Principles of Prompting
 
 [![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/llms-and-ai/prompting-principles/)
@@ -1228,22 +998,6 @@ Gmail Search Strings
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Green-Invoice-API-My-Notes)
 
 Green Invoice API
-
----
-
-### How The CLI Planning Doc
-
-[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/How-The-CLI-Planning-Doc)
-
-How The CLI Notes
-
----
-
-### Nuclino API Docs (Unofficial)
-
-[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Nuclino-API-Docs-Unofficial)
-
-Nuclino API Docs (unofficial)
 
 ---
 
@@ -1335,14 +1089,6 @@ Point in time snapshot of TTS providers with Modern Hebrew support
 
 ## Tech Stack & Tools
 
-### Tech Searches
-
-[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Tech-Searches)
-
-Tech stack prompts
-
----
-
 ### Tech Stack
 
 [![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/misc/tech-stack/)
@@ -1356,8 +1102,6 @@ Tech Stack documentation
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Tech-Stack)
 
 Tech Stack
-
----
 
 ---
 
